@@ -1,19 +1,18 @@
----
-description: >-
-  Es casi imposible exagerar cuánto ha cambiado Internet la forma en que
-  consumimos información y nos comunicamos entre nosotros.
----
+# 🖱 ¿Qué es el desarrollo web?
 
-# 💻 Hola mundo!
+¡Bienvenido al mundo del desarrollo web! Millones de usuarios han aprendido a crear sitios web y aplicaciones web en Codecademy, y usted podría ser el próximo.
 
-Más de cuatro mil millones de personas en todo el mundo son usuarios de Internet y el número total de sitios web en la red mundial se acerca a los dos mil millones.
+Tener habilidades de desarrollo web le permite tomar sus grandes ideas, ya sea un sitio web simple, una aplicación web compleja o incluso un juego de navegador, ¡y construirlas en la web!
 
-A pesar de la presencia de Internet en nuestras vidas, muy pocos usuarios de Internet entienden cómo funciona. No es necesario ser ingeniero para beneficiarse de la comprensión de cómo funciona Internet. Sin embargo, comprender la infraestructura de Internet lo ayudará a decidir si aprender desarrollo web es adecuado para usted.
+¡Conoce a Alejandra! Ella es una desarrolladora web en ciernes. Dirige una pequeña agencia de viajes. Alejandra encuentra a sus clientes principalmente a través del boca a boca, pero ahora está lista para expandir su negocio creando un sitio web.
 
-En esta lección, aprenderá cómo funciona Internet entre bastidores. Después de terminar esta lección, podrá responder preguntas como:
+En esta lección, seguiremos a Alejandra a lo largo de su viaje para aprender nuevos lenguajes para el desarrollo web, y veremos qué tipo de funciones le permite crear cada nueva habilidad a Alejandra para su sitio.
 
-* Preguntas frecuentes:
-  * ¿Cómo se envían los datos de una computadora a otra?
-  * ¿Cuál es la relación entre un navegador y un servidor?
-  * ¿Cómo se convierte el código en la experiencia que los usuarios ven en sus navegadores?
-  * ¿Cómo ha cambiado la web y el desarrollo web desde su invención hasta la actualidad?
+Los cuatro idiomas principales que Alejandra necesita aprender incluyen:
+
+* **HTML** : estructura el contenido del sitio web
+* **CSS** : aplica estilo a los sitios web
+* **JavaScript** : agrega interactividad a los sitios web
+* **SQL** : permite que su aplicación web almacene y recupere datos
+
+Seguiremos a Alejandra mientras aprende cada uno de estos lenguajes, comenzando con HTML.
