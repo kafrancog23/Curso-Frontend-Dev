@@ -4,4 +4,4 @@ El _ML_ en HTML significa lenguaje de _marcado_ . El marcado se refiere a una fo
 
 Un maestro puede usar un bolígrafo rojo para asegurarse de que sus comentarios sean fáciles de distinguir del trabajo del alumno. HTML separa el contenido y la anotación mediante el uso de etiquetas HTML, que se indican mediante corchetes angulares (también conocidos como signos de menor que y mayor que).
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
